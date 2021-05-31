@@ -1,3 +1,4 @@
+# Verilen listeyi [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]] formatına dönüştürme.
 num = [1,2,3]
 num_set = set(num)
 solution = [[]]
